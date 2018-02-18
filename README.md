@@ -7,3 +7,6 @@ Include authentication and permission, search profile feature, and Login.
 
 
 Technology used: Vagrant 2.0.2, VirtualBox 5.2, Python, Django, Django REST framework, ModHeader Chrome extension, Git, aws
+
+deploy: visit http://ec2-13-58-83-11.us-east-2.compute.amazonaws.com/admin/
+Must have SuperUser credentials to Login
