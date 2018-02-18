@@ -1,3 +1,5 @@
+#!user/bin/env bash
+
 # TODO: Set to URL of git repo.
 PROJECT_GIT_URL='https://github.com/emshira/Profiles-REST-API.git'
 
